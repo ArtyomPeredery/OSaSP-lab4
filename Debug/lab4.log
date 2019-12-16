@@ -1,0 +1,9 @@
+﻿  lab4.cpp
+C:\Users\Artem\Desktop\lab4\lab4.cpp(54,23): warning C4018:  >: несоответствие типов со знаком и без знака
+C:\Users\Artem\Desktop\lab4\lab4.cpp(69,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Artem\Desktop\lab4\lab4.cpp(77,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Artem\Desktop\lab4\lab4.cpp(89,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Artem\Desktop\lab4\lab4.cpp(101,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Artem\Desktop\lab4\lab4.cpp(108,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Artem\Desktop\lab4\lab4.cpp(109,27): warning C4018:  >: несоответствие типов со знаком и без знака
+  lab4.vcxproj -> C:\Users\Artem\Desktop\lab4\Debug\lab4.exe
